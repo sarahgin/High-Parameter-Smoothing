@@ -1,3 +1,3 @@
 # High-Parameter-Smoothing
 
-![](home.png)
+![](home.PNG)
